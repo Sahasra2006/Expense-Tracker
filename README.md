@@ -51,13 +51,13 @@ Kotlin Flow provides reactive updates, allowing the dashboard to refresh when tr
 ## App Screenshots
 
 ### Home Screen
-![Dashboard](screenshots/dashboard.jpeg)
+<img src="screenshots/dashboard.jpeg" width="250" />
 
 ### Add Expense
-![Add Expense](screenshots/add-expense.jpeg)
+<img src="screenshots/add-expense.jpeg" width="250" />
 
 ### Add Income
-![Add Income](screenshots/add-income.jpeg)
+<img src="screenshots/add-income.jpeg" width="250" />
 
 ## Author
 
