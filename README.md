@@ -48,6 +48,17 @@ Kotlin Flow provides reactive updates, allowing the dashboard to refresh when tr
 - Transaction search and filtering.
 - Visual spending charts.
 
+## App Screenshots
+
+### Home Screen
+![Dashboard](screenshots/dashboard.jpeg)
+
+### Add Expense
+![Add Expense](screenshots/add-expense.jpeg)
+
+### Add Income
+![Add Income](screenshots/add-income.jpeg)
+
 ## Author
 
 **Sahasra**
